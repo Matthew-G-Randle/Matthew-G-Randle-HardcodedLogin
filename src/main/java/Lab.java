@@ -1,4 +1,4 @@
-/* 1 */
+/* 2 */
 public class Lab {
     /**
      * This challenge represents a hardcoded login example:
